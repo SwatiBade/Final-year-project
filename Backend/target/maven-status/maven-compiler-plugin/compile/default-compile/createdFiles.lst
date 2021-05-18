@@ -1,0 +1,9 @@
+com/microservices/exchangerate/ExchangeRateRepository.class
+com/microservices/registration/UserRegistrationEntity.class
+com/microservices/exchangerate/ExchangeRateController.class
+com/microservices/Person.class
+com/microservices/registration/UserRegistrationController.class
+com/microservices/MicroserviceApplication.class
+com/microservices/registration/UserRegistrationRepository.class
+com/microservices/exchangerate/ExchangeRateEntity.class
+com/microservices/SQLDialect.class
